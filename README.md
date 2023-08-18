@@ -1,5 +1,7 @@
 ### Hi there 👋
+- 🤔 My name is Shi Zili（诗子黎）
 - 🔭 I’m currently working on SDU
+- 💬 The website of my blog is https://lypw.life/
 - 🌱 I’m currently learning computer science and technology
 <!--
 **lvszl/lvszl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +25,7 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=lvszl" />
+</div>
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=lvszl&theme=minimal" />
 </div>
