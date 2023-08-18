@@ -9,15 +9,16 @@
 
 
 ### 我在github上的统计
+</div>
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=lvszl" />
+</div>
+
 <div align="center">
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=lvszl" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvszl&layout=compact&langs_count=8" />
 <span>  </span>
-</div>
-<div align="left">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=lvszl" />
-</div>
-
+    
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lvszl&theme=github-compact)](https://github.com/lvszl/github-readme-activity-graph)
 
 **贪吃蛇**
