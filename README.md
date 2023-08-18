@@ -14,7 +14,7 @@
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=lvszl" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvszl&layout=compact&langs_count=8" />
 <span>  </span>
 </div>
-<div align="center">
+<div align="left">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=lvszl" />
 </div>
 
