@@ -19,5 +19,4 @@
     
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lvszl&theme=github-compact)](https://github.com/lvszl/github-readme-activity-graph)
 
-**贪吃蛇**
-<div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
+
